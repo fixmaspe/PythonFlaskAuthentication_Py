@@ -1,1 +1,3 @@
-[![1.png](https://i.postimg.cc/fyjN0Qq6/1.png)](https://postimg.cc/Cn1tWXgN)
+            Importante
+ pip install -r requirements.txt  👈
+ python app.py
